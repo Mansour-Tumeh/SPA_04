@@ -1,32 +1,37 @@
-# SPA - DOM - 02: xxx
+# SPA - DOM - 02: Traversing the DOM tree
 
 > Learning goals
->- Topic A
->- Topic A detail x
->- Topic A detail y
->- Topic B: `<foo>`
+ - Manipulating: Changing the DOM tree
+ - Traversing: Jumping from one element to its relative
+
+
+- Manipulating: Changing the DOM tree
+  > Manipulating classes: `Element.classList` methods
+  > Changing the text inside an element: The `HTMLElement.innerText` property
+  > Changing the HTML content: The `Element.innerHTML` property
+  > Creating Elements: `document.createElement(<tag name>)`
+  > Adding elements to the page: `Element.append(<Element object>)`
+
+- Traversing: Jumping from one element to its relative
+  
+ > Node vs. Element: 
+   Comparing `Node.previousSibling` and `Element.previousElementSibling`
+
+ > Getting an element's closest parent: `Element.closest(<selector  string>)`
+ > Testing an element against a selector: `Element.matches(<selector string>)`
+ > Getting all children of an element: `ParentNode.children`
+ > Selecting specific children: `ParentNode.querySelector(<selector string>)`
+ > Finding more traversal techniques: MDN 
+  
 
 **Yesterday**
-- Yesterdays topic A
-- Yesterdays topic B
+- Querying: Getting elements from document
+- The `window` object
 
-**TODAY**
-- Todays topic A
-- Todays topic B
 
-## Todays topic A
-
-## Todays topic B
-
-## Wrap-up
-
-- Topic A
 - Topic B
 
 ## Exercises
 
 - foo
 
-## Self-study prompts
-
-- bar

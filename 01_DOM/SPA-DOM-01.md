@@ -54,6 +54,10 @@
 - [Browser-DOM-manipulating](https://github.com/DigitalCareerInstitute/Browser-DOM-manipulating/)
 
 
-## Self-study prompts
+## Notes
+
+
+
+## resources
 
 - [dom-manipulating](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
