@@ -6,11 +6,11 @@
 
 
 - Manipulating: Changing the DOM tree
-  > Manipulating classes: `Element.classList` methods
-  > Changing the text inside an element: The `HTMLElement.innerText` property
-  > Changing the HTML content: The `Element.innerHTML` property
-  > Creating Elements: `document.createElement(<tag name>)`
-  > Adding elements to the page: `Element.append(<Element object>)`
+ > Manipulating classes: `Element.classList` methods
+ > Changing the text inside an element: The `HTMLElement.innerText` property
+ > Changing the HTML content: The `Element.innerHTML` property
+ > Creating Elements: `document.createElement(<tag name>)`
+ > Adding elements to the page: `Element.append(<Element object>)`
 
 - Traversing: Jumping from one element to its relative
   
